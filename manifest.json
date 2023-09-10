@@ -1,0 +1,18 @@
+{
+  "name": "Your Website Name",
+  "short_name": "OUTLINE",
+  "start_url": "/",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "https://images.app.goo.gl/2oKMhM2uRwrJ3wGq7",
+      "sizes": "192x192",
+      "type": "image"
+    },
+    {
+      "src": "https://images.app.goo.gl/2oKMhM2uRwrJ3wGq7",
+      "sizes": "512x512",
+      "type": "image"
+    }
+  ]
+}

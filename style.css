@@ -1,0 +1,53 @@
+*{
+  font-family: 'Montserrat', sans-serif;
+}
+nav h1{
+  
+  color:white;
+  font-weight: 900;
+  
+}
+.pageOne{
+  height: 100vh;
+  width: 100℅;
+  background-color:#191825;
+  color: white;
+  position: sticky;
+  text-align: center;
+}
+.cont-text{
+  font-size: 25px;
+  padding-top: 10vh;
+  text-align: center;
+  font-weight: 900;
+}
+.cont-text2{
+  text-align: center;
+  color:#f70776;
+  letter-spacing: 10pt;
+  font-weight: 1000;
+}
+.search-box{
+  border-radius: 10px;
+  background: #c3195d;
+ 
+  border: none;
+  color: white;
+  margin-left:0%;
+  width: 90vw;
+  
+  
+  
+}
+.convert{
+  background-color: white;
+  padding: 10px;
+  border: none;
+  border-radius: 25px;
+  color: white;
+  margin: 5px;
+  margin-left: 80%;
+}
+.pic{
+  padding-top: 40px;
+}
